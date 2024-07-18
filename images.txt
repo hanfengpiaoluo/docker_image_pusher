@@ -1,1 +1,1 @@
-freqtradeorg/freqtrade:latest
+freqtradeorg/freqtrade:stable
